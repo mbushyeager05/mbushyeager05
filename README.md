@@ -1,16 +1,22 @@
-## Hi there 👋
+# Michael Bushyeager
 
-<!--
-**mbushyeager05/mbushyeager05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student at Eastern Washington University studying Visual Communication and Design.
 
-Here are some ideas to get you started:
+## Skills 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Graphic Design
+* Web Design
+* UI/UX Design
+* Branding
+* Adobe Creative Suite (Photoshop, Illustrator, InDesign)
+* Figma
+* HTML/CSS
+
+
+## Socials 
+
+### Find me on:
+*  [Instagram](https://www.instagram.com/mbushyeager.design/)
+*  [LinkedIn](https://www.linkedin.com/in/michael-bushyeager-0480031bb)
+
+

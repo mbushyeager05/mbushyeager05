@@ -8,6 +8,9 @@ Student at Eastern Washington University studying Visual Communication and Desig
 * Web Design
 * UI/UX Design
 * Branding
+* Print Design
+* Illustration
+* Packaging Design
 * Adobe Creative Suite (Photoshop, Illustrator, InDesign)
 * Figma
 * HTML/CSS

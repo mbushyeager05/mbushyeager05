@@ -2,8 +2,13 @@
 
 Student at Eastern Washington University studying Visual Communication and Design. Gradutaing in the Spring of 2026. With minors also in Graphic Design, User Experience Design, and Front-End Web Design.
 
-## Skills 
+Always Looking for a good cup of Coffee and new design challenges to tackle!
 
+
+<img align="right" src="539.png" width="100" alt="Description">
+<img align="right" src="028.png" width="300" alt="Description">
+
+## Skills 
 * Graphic Design
 * Web Design
 * UI/UX Design
@@ -27,12 +32,14 @@ Student at Eastern Washington University studying Visual Communication and Desig
 - ⚡ Fun fact **Bowling was my sport throughout Middle School and High school.**
 
 - 👨‍💻 All of my projects are available at **[https://mbushyeager05.github.io/DESN368-code-design-workspace/](https://mbushyeager05.github.io/DESN368-code-design-workspace/)**
-
+<img align="right" src="359.png" width="100" alt="Description">
 <h3 align="left">Connect with me:</h3>
+<img align="right" src="056.png" width="200" alt="Description">
 <p align="left">
 <a href="https://github.com/mbushyeager05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mbushyeager05" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/michael-bushyeager-0480031bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/michael-bushyeager-0480031bb" height="30" width="40" /></a>
 
+<img align="right" src="209.png" width="300" alt="Description">
 
  [Instagram](https://www.instagram.com/mbushyeager.design/)
 

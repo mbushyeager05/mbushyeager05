@@ -1,6 +1,4 @@
-# Hi 👋, I'm Michael Bushyeager
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbushyeager05&label=Profile views&color=0e75b6&style=flat" alt="mbushyeager05" /> </p>
+![doodle-header-michael-bushyeager](doodle-header-michael-bushyeager.png)
 
 Student at Eastern Washington University studying Visual Communication and Design. Gradutaing in the Spring of 2026. With minors also in Graphic Design, User Experience Design, and Front-End Web Design.
 

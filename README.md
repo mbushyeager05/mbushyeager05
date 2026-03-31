@@ -19,11 +19,12 @@ Always Looking for a good cup of Coffee and new design challenges to tackle!
 * Adobe Creative Suite (Photoshop, Illustrator, InDesign)
 * Figma
 * HTML/CSS
+* JavaScript
 
 
 ## Updates and Information
 
-- 🔭 I'm currently working on **Portfolio Website**
+- 🔭 I'm currently working on **Coming Soon!**
 
 - 🌱 I'm currently learning **JavaScript**
 

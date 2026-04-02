@@ -43,6 +43,8 @@ You can also check out the contributing guidelines (https://github.com/username/
 
 Emojis
 
+:pink_heart:
+
 We love open source! Let's build something amazing together!
 
 Feel free to contribute and don't forget to star the repo!
